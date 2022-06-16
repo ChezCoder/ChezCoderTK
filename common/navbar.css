@@ -1,0 +1,15 @@
+nav {
+    padding: 3vw;
+}
+
+.nav-buttons li {
+    list-style: none;
+    font-weight: 200;
+    font-size: 1.5vw
+}
+
+.nameplate {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2vw;
+    font-weight: 600;
+}

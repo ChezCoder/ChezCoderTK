@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100&family=Dosis:wght@600&family=Source+Sans+Pro:wght@200;600&display=swap');
+
+:root {
+    --baby-blue: #3466AA;
+    --primary-gray: #1C1C1C;
+}
+
+html, body {
+    color: white;
+}
