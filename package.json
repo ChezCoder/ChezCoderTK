@@ -5,7 +5,8 @@
     "scripts": {
         "obf": "javascript-obfuscator scripts --output scripts --config obfuscator.config.json;javascript-obfuscator common --output common --config obfuscator.config.json;",
         "build": "tsc -b",
-        "dev": "tsc -w"
+        "dev": "tsc -w",
+        "prod": "npm build; npm obf;"
     },
     "repository": {
         "type": "git",

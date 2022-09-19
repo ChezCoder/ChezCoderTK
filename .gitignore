@@ -1,6 +1,9 @@
 node_modules
 .vscode
 
+# alias for development
+common
+
 *.ts
 *.js.map
 
