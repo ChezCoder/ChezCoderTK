@@ -10,7 +10,7 @@ body {
 
 header {
     background: var(--primary-gray);
-    height: 100vh;
+    height: 90vh;
 }
 
 header section {
