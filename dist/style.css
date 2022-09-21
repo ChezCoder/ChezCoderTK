@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url(/assets/background.jpg) no-repeat;
+    background: url(/dist/assets/background.jpg) no-repeat;
     background-attachment: fixed;
     height: 200vh;
 }
